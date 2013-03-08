@@ -1,0 +1,5 @@
+Hello,
+
+This is a plain text file to demo usage of git.
+
+Thanks.
